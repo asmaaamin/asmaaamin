@@ -8,6 +8,14 @@ I never thought I’d be a teacher, but to my surprise, I discovered a natural
 talent for it! I love sharing knowledge, helping others grow, and making complex
 topics easy to understand.
 
+## 🛠️ Technical Skills
+
+💻 **Web Development:** HTML, CSS, JavaScript, React.js, Next.js, Node.js
+
+🎨 **UI/UX & Design:** Figma
+
+🗄️ **Databases:** SQL & NoSQL
+
 ## 🎨 Beyond Code
 
 When I’m not busy coding, you’ll find me:
